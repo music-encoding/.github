@@ -1,4 +1,4 @@
-# Welcome to the Music Encoding Initiative! 🙋‍♀️ 
+# Welcome to the Music Encoding Initiative! 🙌 
 
 The Music Encoding Initiative (MEI) is an open-source effort to define a system for encoding musical documents in a machine-readable structure. 
 MEI brings together specialists from various music research communities, including technologists, librarians, historians, and theorists in a common effort to define best practices for representing a broad range of musical documents and structures. 
