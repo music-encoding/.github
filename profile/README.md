@@ -19,6 +19,7 @@ Here is a quick overview of our frequently accessed repositories and their conte
 A live version of the MEI Guidelines is available on the [MEI Website](https://music-encoding.org) in the ’Documentation‘ menu:
 
 * [MEI development version](https://music-encoding.org/guidelines/dev)
+* [MEI version 5](https://music-encoding.org/guidelines/v5)
 * [MEI version 4](https://music-encoding.org/guidelines/v4)
 * [MEI version 3](https://music-encoding.org/guidelines/v3)
 
