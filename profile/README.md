@@ -8,11 +8,16 @@ MEI brings together specialists from various music research communities, includi
 Here is a quick overview of our frequently accessed repositories and their contents:
 
 - [music-encoding](https://github.com/music-encoding/music-encoding): The main repository that includes the source for the MEI schemata and guidelines.
+- [music-encoding.github.io](https://github.com/music-encoding/music-encoding.github.io): The repository for the MEI website at music-encoding.org.
+- [encoding-tools](https://github.com/music-encoding/encoding-tools): The repository that hosts tools for modifying MEI files and conversion of MEI to/from other encoding formats.
+- [docker-mei](https://github.com/music-encoding/docker-mei): The repository that hosts the Docker image for anything concerning the MEI build process.
+- [sample-encodings](https://github.com/music-encoding/sample-encodings): The repository that provides sample encodings and uses cases of MEI.
+
+> [!NOTE]  
+> The following repositories are automatically generated and should not be edited directly. Any changes should be made to the main [music-encoding](https://github.com/music-encoding/music-encoding) repository.
 - [schema](https://github.com/music-encoding/schema): The repository that holds the official MEI Schema files.
 - [guidelines](https://github.com/music-encoding/guidelines): The repository that holds the MEI guidelines for the latest stable and development versions.
-- [music-encoding.github.io](https://github.com/music-encoding/music-encoding.github.io): The repository for the MEI website at music-encoding.org.
-- [sample-encodings](https://github.com/music-encoding/sample-encodings): The repository that provides sample encodings and uses cases of MEI.
-- [encoding-tools](https://github.com/music-encoding/encoding-tools): The repository that hosts tools for modifying MEI files and conversion of MEI to/from other encoding formats.
+
 
 ## 📋 Documentation 
 
